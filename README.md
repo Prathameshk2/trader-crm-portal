@@ -1,6 +1,6 @@
-# HX Nexus Trader Portal — Reference UI Clone
+# Trader Portal — Reference UI Clone
 
-A responsive React/Vite frontend recreation based on the provided HX Nexus Trader Portal screenshot. The default landing page is Accounts, with a grouped sidebar and header controls modeled on the reference.
+A responsive React/Vite frontend recreation based on the provided Trader Portal screenshot. The default landing page is Accounts, with a grouped sidebar and header controls modeled on the reference.
 
 ## Run locally
 
@@ -15,7 +15,7 @@ Open the local URL printed by Vite.
 
 ## Included UI and interactions
 
-- HX Nexus-style logo, client identity card, grouped/scrollable sidebar and active navigation state
+- Logo, client identity card, grouped/scrollable sidebar and active navigation state
 - Accounts page with balances summary, USD/EUR/live/practice account cards, Open account and Transfer actions
 - Dashboard, Fund, Statements, Rewards, Games, Referrals, Support, Onboarding and Profile pages
 - Day/night theme switch
