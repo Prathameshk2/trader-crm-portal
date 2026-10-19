@@ -197,7 +197,7 @@ function App() {
       >
         <div className="reference-brand">
           <div className="hx-wordmark">
-            <b>hx</b> nexus<span>.</span>
+            <b></b> Trader Potral<span>.</span>
           </div>
           <button
             className="mobile-close icon-btn"
@@ -492,7 +492,7 @@ function App() {
           {active === "Profile" && <ProfilePage openAction={openAction} />}
         </div>
         <footer className="footer reference-footer">
-          <span>© 2026 HX Nexus</span>
+          <span>© 2026 Trader Portal</span>
           <span>
             <ShieldCheck size={13} /> Secure trader workspace <i /> Demo
             interface · Sample data
@@ -904,7 +904,7 @@ function ReferralsPage({ copied, setCopied, showNotice }) {
           <h2>Grow your network</h2>
           <p>Share your personal invitation link with people you know.</p>
           <div className="referral-link">
-            <span>https://demo.hxnexus.com/r/Jack-2026</span>
+            <span>https://demo.trader.portal.com/r/Jack-2026</span>
             <button
               onClick={() => {
                 setCopied(true);
